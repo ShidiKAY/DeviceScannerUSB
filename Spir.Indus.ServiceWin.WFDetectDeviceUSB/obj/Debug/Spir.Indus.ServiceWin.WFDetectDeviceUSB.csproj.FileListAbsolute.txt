@@ -1,0 +1,17 @@
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\bin\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.exe.config
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\bin\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.exe
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\bin\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.pdb
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.Properties.Resources.resources
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.csproj.GenerateResource.Cache
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.exe
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.pdb
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.csprojResolveAssemblyReference.cache
+E:\DEV\Tests\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.Form1.resources
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\bin\Debug\DetectDeviceUSB_V1.exe.config
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\bin\Debug\DetectDeviceUSB_V1.exe
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\bin\Debug\DetectDeviceUSB_V1.pdb
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.Form1.resources
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.Properties.Resources.resources
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\Spir.Indus.ServiceWin.WFDetectDeviceUSB.csproj.GenerateResource.Cache
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\DetectDeviceUSB_V1.exe
+C:\Users\924549\Documents\Visual Studio 2013\Projects\Spir.Indus.ServiceWin.WFDetectDeviceUSB\Spir.Indus.ServiceWin.WFDetectDeviceUSB\obj\Debug\DetectDeviceUSB_V1.pdb
